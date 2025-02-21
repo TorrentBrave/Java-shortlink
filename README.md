@@ -3,7 +3,7 @@ SaaS短链接系统
 后端 Java 代码1.2w行，并提供了配套前端展示，可以部署到远端服务器
 
 - 详细介绍：
-- 开源地址：[https://gitee.com/nageoffer/shortlink](SaaS短链接系统)
+- 开源地址：[https://github.com/TorrentBrave/Java-shortlink](SaaS短链接系统)
 - 技术架构
   - 核心技术：SpringBoot + SpringCloudAlibaba + RocketMQ + ShardingSphere + Redis + MySQL + Sentinel...
 
